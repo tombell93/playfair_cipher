@@ -1,0 +1,6 @@
+Note: This program is not yet complete. 
+The encrypt and decrypt classes are working fine, but the digraph used to crack the cipher with no given
+key is not working. This is due to a currently unlocated problem with the calculation of digraph 'score'
+and the hill-climbing methods. 
+
+Feel free to play around and see what you can do. 
